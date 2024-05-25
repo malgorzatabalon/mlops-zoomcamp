@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/382955265294145288
+creation_time: 1716657509730
+experiment_id: '382955265294145288'
+last_update_time: 1716657509730
+lifecycle_stage: active
+name: random-forest-experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/382955265294145288/67928b0b391c41269bd6bdb928f914c6/artifacts
+end_time: 1716657527264
+entry_point_name: ''
+experiment_id: '382955265294145288'
+lifecycle_stage: active
+run_id: 67928b0b391c41269bd6bdb928f914c6
+run_name: intrigued-croc-315
+run_uuid: 67928b0b391c41269bd6bdb928f914c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716657510227
+status: 3
+tags: []
+user_id: codespace
